@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shihyao Liao</h1>
+<h1 align="center">Hi, I'm Shihyao Liao 👋👋</h1>
 <h3 align="center">A motivated and task-driven individual with fundamental backgrounds of coding and data analysis skills who has always been passionate about learning new things and explore in the technology world.</h3>
 
 - 🌱 I’m currently learning **SQL, Tableau, Python**
