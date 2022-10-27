@@ -1,1 +1,18 @@
-# ShihyaoLiao7
+<h1 align="center">Hi 👋, I'm Shihyao Liao</h1>
+<h3 align="center">A motivated and task-driven individual with fundamental backgrounds of coding and data analysis skills who has always been passionate about learning new things and explore in the technology world.</h3>
+
+- 🌱 I’m currently learning **SQL, Tableau, Python**
+
+- 💬 Ask me about **Anything!**
+
+- 📫 How to reach me **leoo100341224@gmail.com (510)-646-3457**
+
+- ⚡ Fun fact **Read & Drink a lot of water hehe**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shihyao liao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihyao liao" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
