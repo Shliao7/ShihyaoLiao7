@@ -3,7 +3,7 @@
 
 - 🎓 UC San Diego Business Economics
 
-- 📖 I’m currently learning **SQL, Tableau, Python**
+- 📌 Skills **SQL, Tableau, Python**
 
 - 💬 Ask me about **Anything!**
 
