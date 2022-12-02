@@ -3,13 +3,13 @@
 
 - 🎓 UC San Diego Business Economics
 
-- 📌 Skills **SQL, Tableau, Python**
+- 📌 Skills: **SQL, Tableau, Python**
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about: **Anything!**
 
-- 📫 How to reach me **leoo100341224@gmail.com (510)-646-3457**
+- 📫 How to reach me: **leoo100341224@gmail.com (510)-646-3457**
 
-- ⚡ Fun fact **Read & Drink a lot of water (¬‿¬)**
+- ⚡ Fun fact: **Read & Drink a lot of water (¬‿¬)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
