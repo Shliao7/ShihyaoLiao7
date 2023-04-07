@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Shihyao Liao 🙋🏻‍♂️</h1>
 <h3 align="center">A motivated and task-driven individual with fundamental backgrounds of coding and data analysis skills who has always been passionate about learning new things and explore in the technology world.</h3>
 
-- 🎓 UC San Diego Business Economics
+- 🎓 UC San Diego Business Economics 
 
-- 📌 Skills: **SQL, Tableau, Python**
+- 📌 Skills: **SQL, Tableau, R, Python**
 
 - 💬 Ask me about: **Anything!**
 
-- 📫 How to reach me: **leoo100341224@gmail.com (510)-646-3457**
+- 📫 How to reach me: **shliao0807@gmail.com +886913338835 , +1(510)-646-3457**
 
 - ⚡ Fun fact: **Read & Drink a lot of water (¬‿¬)**
 
